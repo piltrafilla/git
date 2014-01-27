@@ -329,3 +329,10 @@ ul.style6 .first {
 	padding-top: 0em;
 	border-top: 0;
 }
+.services {
+	display: block;
+	padding: 0em;
+	text-decoration: none;
+	color: #737373;
+}
+
